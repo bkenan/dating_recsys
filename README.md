@@ -12,8 +12,14 @@ This automated system  recommends profiles of other users that a user will like!
 ### The steps for installation:
 
 1. Clone this repo to your local machine
-2. pip install -r requirements.txt
-$ streamlit run app.py
+
+```
+pip install -r requirements.txt
+```
+```
+streamlit run app.py
+```
+
 
 
 ## Dataset
