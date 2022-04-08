@@ -1,4 +1,4 @@
-# dating_recsys
+# Dating Application Recommendation System
 
 ## Quick GIF demo:
-![Alt text](./assets/dating_recsys.mp4)
+![Alt text](./assets/dating_recsys.gif)
