@@ -24,7 +24,7 @@ streamlit run app.py
 
 ## Dataset
 
-[OkCupid Kaggle](https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles)
+[OkCupid dataset from Kaggle](https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles)
 
 
 ## Quick GIF demo:
