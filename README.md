@@ -6,7 +6,7 @@ This automated system  recommends profiles of other users that a user will like!
 
 ## Application's archiecture
 
-![Alt text](./assets/App backend.png)
+![Alt text](./assets/App_backend.png)
 
 
 ### The steps for installation:
