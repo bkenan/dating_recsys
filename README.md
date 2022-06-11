@@ -12,7 +12,7 @@ We're turning a cold-start problem into a user to item problem by calculating si
 
 ### The steps for installation:
 
-1. Clone this repo to your local machine
+Clone this repo to your local machine
 
 ```
 pip install -r requirements.txt
