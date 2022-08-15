@@ -29,5 +29,5 @@ streamlit run app.py
 
 
 ## Quick GIF demo:
-<img src="./assets/dating_recsys.gif" width="800" height="450"/>
+![Alt text](./assets/dating_recsys.gif)
 
